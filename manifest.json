@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Prospect Hunter B2B",
+  "version": "1.1.0",
+  "description": "Descubrimiento B2B desde índices públicos y APIs autorizadas; CRM local, sin acceso automático a páginas protegidas.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Prospect Hunter B2B"
+  },
+  "options_ui": {
+    "page": "index.html",
+    "open_in_tab": true
+  },
+  "optional_host_permissions": ["https://api.search.brave.com/*", "https://boletines.guanajuato.gob.mx/*"]
+}

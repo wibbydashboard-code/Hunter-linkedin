@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+pilot/
+docs/PILOTO_PROSPECTOS_GUANAJUATO.md
+docs/live-discovery-result.json
+docs/*chromium-panel.png
+docs/v11-discovery-panel.png
+Prospect_Hunter_B2B_V1_1.zip
