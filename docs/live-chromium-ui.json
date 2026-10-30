@@ -1,0 +1,15 @@
+{
+  "test": "extension-ui-live-discovery",
+  "date": "2026-10-26",
+  "extensionLoaded": true,
+  "providerPermission": "concedido en perfil Chromium efímero de QA",
+  "query": "Martinrea Silao manufactura Guanajuato",
+  "requestBudget": 4,
+  "requestsMade": 1,
+  "httpStatus": 500,
+  "result": "BLOCKED",
+  "candidateCount": 0,
+  "error": "El sitio o su filtro devolvió HTTP 500; la UI lo registró y pausó el lote sin reintentar.",
+  "javascriptExceptions": 0,
+  "evidence": "Intento iniciado desde la página de búsqueda de la extensión MV3 en Chromium headless. No se usaron proxies, autenticación ni rutas alternativas."
+}
